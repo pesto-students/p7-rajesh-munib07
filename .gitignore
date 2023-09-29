@@ -1,8 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/React-Assignments/node_modules
-/node_modules
+/React-Assignments
+/Week*/node_modules
 /.pnp
 .pnp.js
 

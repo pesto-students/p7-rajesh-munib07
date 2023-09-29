@@ -1,4 +1,4 @@
-##Completed Week1 and Week2 Assignmets
+##Completed Week1 Assignmets
 
 - In App.jsx, I have commented the call to BookList with Books
 
